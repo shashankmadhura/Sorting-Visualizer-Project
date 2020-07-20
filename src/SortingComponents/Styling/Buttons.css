@@ -1,0 +1,58 @@
+#reset-btn{
+    background-color:green;
+    padding: 8px;
+    border-radius: 8px;
+    color:white;
+    margin: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#bubblesort-btn{
+    background-color:green;
+    padding: 8px;
+    border-radius: 8px;
+    color:white;
+    margin: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+#selectionsort-btn{
+    background-color:green;
+    padding: 8px;
+    border-radius: 8px;
+    color:white;
+    margin: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#insertionsort-btn{
+    background-color:green;
+    padding: 8px;
+    border-radius: 8px;
+    color:white;
+    margin: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+#mergesort-btn{
+    background-color:green;
+    padding: 8px;
+    border-radius: 8px;
+    color:white;
+    margin: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+/* #speed{
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -ms-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+ } */
